@@ -1,6 +1,9 @@
 
 import 'package:flutter/material.dart';
 
+import 'core/theme/theme.dart';
+import 'features/auth/presentation/pages/signup_page.dart';
+
 
 
 void main() {
